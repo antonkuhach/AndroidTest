@@ -1,0 +1,9 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+<suite name ="AndroidTestWorkflow">
+    <test name="MainScenario">
+        <classes>
+            <class name=""/>
+        </classes>
+    </test>
+</suite>
